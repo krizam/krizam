@@ -13,7 +13,6 @@
 - 🤔 I’m looking for help with cloud computing and DevOps practices.
 - 💬 Ask me about anything related to football or computer science.
 - 📫 How to reach me: krizambyanju@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can talk about football strategies for hours!
 
 ## 🛠 Skills
