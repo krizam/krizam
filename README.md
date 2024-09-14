@@ -19,3 +19,22 @@
 - **Web Development:** HTML, CSS
 - **Databases:** SQL
 - **Server Management:** XAMPP
+
+## 🐍 Python Projects
+- [Project Name 1](link-to-your-project-1): Brief description of what the project does.
+- [Project Name 2](link-to-your-project-2): Brief description of what the project does.
+- [Project Name 3](link-to-your-project-3): Brief description of what the project does.
+
+## 📈 Contributions
+- **Total Contributions:** 71 (Feb 10 - Present)
+- **Current Streak:** 0 (as of Sep 14)
+- **Longest Streak:** 3 days (May 17 - May 19)
+
+## 🌟 Most Used Languages
+- Java: 36.75%
+- TypeScript: 17.33%
+- HTML: 14.65%
+- CSS: 15.03%
+- C++: 6.62%
+- Python: (Check back after adding Python projects!)
+
