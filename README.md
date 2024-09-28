@@ -21,23 +21,4 @@
 - **Game Development:** Unity Hub
 - **Frameworks:** Ruby on Rails
 
-## 📊 Skills Bar Chart
-```mermaid
-  graph TD;
-      A[Programming Languages] -->|Java| B[20%]
-      A -->|Python| C[15%]
-      A -->|JavaScript| D[25%]
-      A -->|C++| E[10%]
-      A -->|Ruby| F[5%]
-      G[Web Development] -->|HTML| H[20%]
-      G -->|CSS| I[15%]
-      G -->|JavaScript| J[25%]
-      G -->|Bootstrap| K[10%]
-      G -->|Figma| L[10%]
-      G -->|Canva| M[5%]
-      N[Databases] -->|SQL| O[30%]
-      N -->|PostgreSQL| P[25%]
-      N -->|MongoDB| Q[15%]
-      R[Server Management] -->|XAMPP| S[100%]
-      T[Game Development] -->|Unity Hub| U[100%]
-      V[Frameworks] -->|Ruby on Rails| W[20%]
+
