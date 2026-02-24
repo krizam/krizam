@@ -59,11 +59,6 @@
 
 ---
 
-## 🏆 Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=krizam\&theme=algolia\&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 📈 Contribution Graph
 
@@ -74,14 +69,7 @@
 ## 🌐 Connect With Me
 
 📧 Email: **[krisambyanjuu@gmail.com](mailto:krisambyanjuu@gmail.com)**
-💼 LinkedIn: *(add if you have)*
-📱 Portfolio: *(add your website link)*
 
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=krizam\&label=PROFILE+VIEWS\&color=blueviolet\&style=flat)
 
 ---
 
