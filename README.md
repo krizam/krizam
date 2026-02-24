@@ -53,18 +53,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krizam\&theme=tokyonight)
 
-![Krisam's GitHub stats](https://github-readme-stats.vercel.app/api?username=krizam\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krizam\&layout=compact\&theme=tokyonight)
-
----
-
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krizam\&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
+-
 
 ## 🌐 Connect With Me
 
